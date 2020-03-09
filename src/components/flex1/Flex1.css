@@ -1,9 +1,6 @@
-.Flex1 {
-
-}
-
 .FlexContainer1 {
     margin: 20px auto;
+    width: 100%;
     max-width: 300px;
     display: flex;
 }

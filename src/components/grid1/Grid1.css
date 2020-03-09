@@ -1,8 +1,6 @@
-.Grid1 {
-}
-
 .GridContainer1 {
     margin: 20px auto;
+    width: 100%;
     max-width: 300px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr; /* Size of items defined inside container */
