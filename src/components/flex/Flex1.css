@@ -1,0 +1,16 @@
+.Flex1 {
+
+}
+
+.FlexContainer1 {
+    margin: 20px auto;
+    max-width: 300px;
+    display: flex;
+}
+
+.FlexItem1 {
+    border: 1px dashed gray;
+    flex: 1 1 auto; /* Size of items defined inside items */
+    text-align: center;
+    padding: 12px;
+}

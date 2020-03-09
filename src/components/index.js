@@ -1,3 +1,3 @@
-export { Flex } from './flex';
-export { Grid } from './grid';
+export { Flex1 } from './flex';
+export { Grid1 } from './grid';
 

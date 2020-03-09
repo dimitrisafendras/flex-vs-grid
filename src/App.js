@@ -5,8 +5,8 @@ import {
   Route,
   Link
 } from "react-router-dom";
-import {Flex} from './components/flex';
-import {Grid} from './components/grid';
+import {Flex1} from './components/flex';
+import {Grid1} from './components/grid';
 
 export default function App() {
   return (
@@ -45,7 +45,12 @@ export default function App() {
 }
 
 function Home() {
-  return <div><h2>Home</h2><Flex/><Grid/></div>;
+  return <div>
+    <h2>Grid is Container-Based, Flexbox is Content-Based</h2>
+    <h3>In flexbox layout, the size of a cell (flex-item) is defined inside the flex-item itself, and in the grid layout, the size of a cell (grid-item) is defined inside the grid-container.</h3>
+    <Flex1/>
+    <Grid1/>
+  </div>;
 }
 
 function About() {
