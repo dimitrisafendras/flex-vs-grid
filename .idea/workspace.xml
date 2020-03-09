@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6653c1a-1e71-4941-a114-3b9b8a697a8f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/flex2/Flex2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/flex2/Flex2.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/flex2/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/grid2/Grid2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/grid2/Grid2.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/grid2/index.js" afterDir="false" />
+    <list default="true" id="a6653c1a-1e71-4941-a114-3b9b8a697a8f" name="Default Changelist" comment="gaping">
+      <change afterPath="$PROJECT_DIR$/src/components/flex3/Flex3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/flex3/Flex3.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/flex3/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/grid3/Grid3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/grid3/Grid3.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/grid3/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/grid2/Grid2.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/grid2/Grid2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/grid2/Grid2.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/grid2/Grid2.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582654510427</updated>
       <workItem from="1582654513433" duration="331000" />
-      <workItem from="1583761456893" duration="2782000" />
+      <workItem from="1583761456893" duration="4854000" />
     </task>
     <task id="LOCAL-00001" summary="created components">
       <created>1583761967623</created>
@@ -110,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583763556011</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="gaping">
+      <created>1583764288791</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583764288791</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,13 +130,14 @@
     <MESSAGE value="created components" />
     <MESSAGE value="content size" />
     <MESSAGE value="refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
+    <MESSAGE value="gaping" />
+    <option name="LAST_COMMIT_MESSAGE" value="gaping" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1583763555451">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1583764783189">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720/627.-1440.2560.1440@0.0.1280.720" timestamp="1583763555451" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.720/627.-1440.2560.1440@0.0.1280.720" timestamp="1583764783189" />
     <state x="122" y="54" key="DiffContextDialog" timestamp="1583761482211">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -159,9 +170,13 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="426" y="71" key="RollbackChangesDialog/0.0.1280.720/627.-1440.2560.1440@0.0.1280.720" timestamp="1583761485592" />
-    <state x="234" y="82" key="Vcs.Push.Dialog.v2" timestamp="1583763557949">
+    <state x="150" y="3" key="SettingsEditor" timestamp="1583764955782">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="234" y="82" key="Vcs.Push.Dialog.v2/0.0.1280.720/627.-1440.2560.1440@0.0.1280.720" timestamp="1583763557949" />
+    <state x="150" y="3" key="SettingsEditor/0.0.1280.720/627.-1440.2560.1440@0.0.1280.720" timestamp="1583764955782" />
+    <state x="234" y="82" key="Vcs.Push.Dialog.v2" timestamp="1583764290579">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="234" y="82" key="Vcs.Push.Dialog.v2/0.0.1280.720/627.-1440.2560.1440@0.0.1280.720" timestamp="1583764290579" />
   </component>
 </project>

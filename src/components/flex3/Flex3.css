@@ -1,0 +1,24 @@
+.FlexContainerRow3 {
+    margin: 20px auto;
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.FlexContainerColumn3 {
+    margin: 20px auto;
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    justify-content: space-between;
+
+    flex-direction: column;
+}
+
+.FlexItem3 {
+    border: 1px dashed gray;
+    flex: 1 1 auto; /* Size of items defined inside items */
+    text-align: center;
+    padding: 12px;
+}
