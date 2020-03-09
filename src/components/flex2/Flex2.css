@@ -1,0 +1,17 @@
+.FlexContainer2 {
+    margin: 20px auto;
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.FlexItem2 {
+    border: 1px dashed gray;
+    /*flex: 1 1 auto; !* Size of items defined inside items *!*/
+    text-align: center;
+    padding: 12px;
+
+    width: 100%;
+    max-width: 34px;
+}

@@ -1,0 +1,13 @@
+.GridContainer1 {
+    margin: 20px auto;
+    width: 100%;
+    max-width: 300px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr; /* Size of items defined inside container */
+    grid-column-gap: 20px;
+}
+.GridItem1 {
+    border: 1px dashed gray;
+    text-align: center;
+    padding: 12px;
+}

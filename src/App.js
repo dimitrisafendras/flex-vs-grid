@@ -5,7 +5,7 @@ import {
   Route,
   Link
 } from "react-router-dom";
-import {Flex1, Grid1} from './components';
+import {Flex1, Flex2, Grid1, Grid2} from './components';
 import './App.css'
 export default function App() {
   return (
@@ -49,6 +49,9 @@ function Home() {
     <h3>In flexbox layout, the size of a cell (flex-item) is defined inside the flex-item itself, and in the grid layout, the size of a cell (grid-item) is defined inside the grid-container.</h3>
     <Flex1/>
     <Grid1/>
+    <h2>Grid Has a “Gap” Property, Flexbox Doesn’t</h2>
+    <Flex2/>
+    <Grid2/>
   </div>;
 }
 
