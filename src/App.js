@@ -53,6 +53,7 @@ function Home() {
     <Grid1/>
     <h2>Grid Has a “Gap” Property, Flexbox Doesn’t</h2>
     Flex
+    In order to achieve the same result we had to amend both the dimensions of each item as well as the way the container handles the items
     <Flex2/>
     Grid
     <Grid2/>
