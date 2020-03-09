@@ -65,13 +65,13 @@ function Home() {
     <Grid3/>
     <ul>
       <li>
-        <a href={'https://css-tricks.com/snippets/css/complete-guide-grid/'}>css tricks grid</a>
+        <a target='_blank'  href={'https://css-tricks.com/snippets/css/complete-guide-grid/'}>css tricks grid</a>
       </li>
       <li>
-        <a href={'https://css-tricks.com/snippets/css/a-guide-to-flexbox/'}>css tricks flexbox</a>
+        <a target='_blank' href={'https://css-tricks.com/snippets/css/a-guide-to-flexbox/'}>css tricks flexbox</a>
       </li>
       <li>
-        <a href={'https://www.webdesignerdepot.com/2018/09/grid-vs-flexbox-which-should-you-choose/'}> grid vs flex</a>
+        <a target='_blank' href={'https://www.webdesignerdepot.com/2018/09/grid-vs-flexbox-which-should-you-choose/'}> grid vs flex</a>
       </li>
     </ul>
   </div>;
